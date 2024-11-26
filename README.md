@@ -1,1 +1,2 @@
-A program that opens a chrome browser, logs onto linkedin and applies to jobs automatically. Username and password must be added to make program functionable.
+This program checks the weather in DOUALA CAMEROON. 
+Using the Twillo API it will then send a message to the provided phone number and let them know if it will rain or not. 
